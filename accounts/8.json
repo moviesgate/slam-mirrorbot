@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "moviesgatedrive",
+  "private_key_id": "15914c0a0d2f15f97811313a5aff1815cbdd5fed",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDDiPLz84hbXnuw\nYPP2/jJs1i7NUgOHagvW4gSXZaZ+ZZGgJg6F/1MSVf1PDlOTkQKajcTZJbHvGtnW\n+dBtlzIWYvPXKgerJxhETC4IKWVgwUu8/rsm9rWRGs8ndAIY6oyEveDZdRTsqPpj\n8SxFXPN7/xgPZKYqihcNV8RcsDZxVgh+CPs3OSQrk4pZmJrQC7PWAEo5pXk7v5tr\nBQurjG9QDyfrgE5a9Wk5igizD8GIs/LhS5Te1kmDRt6ZZnzNGHUnbnIHKOgyd+Lh\n/PRabcvnqUpcvpgM91R8tFRfyTFCl9rrNXpnn+QXCyjQztZ6eAshTNs6gEanPu/3\nEd8AAKMjAgMBAAECggEALi+S83x6oNpYbPj5p0Wzs3GD7IuKudmaok8QtpIUGZb0\nJtfWZmBAxvv4sUu5Agomi0shTAlTVh8JhXXMfZZRBmipIBGVbh/142v7E4Jzp78A\nnMuueS2dBYFHnRIRzMDaICCZk8PMBXqEakb1Jg0mlgtTK4+ikDm96DDq+NnGgk5e\nUTf1CtpRjBytOdJ8HTgQvEXuuNEF0zD9EnrRBr/T2z1nNetnz4C2Bj9bOpkz00DJ\nZqYPa8WPnYgP9o2ya+4JXi3fVxNMpOqjPvSkfLxqHow0HqRkWfB3RMb8jQdfnDNd\nBdwJ5kU6OEncNyqL81KNtV9ncvANcrPx4YjvrXnpAQKBgQDgT+/jmHBXpXyURRYx\nI5GYp5Fh2gDH4lq2pJoTPYAaoz5WBTaU2NDRLQfc+8DeDeltKUKwSi0E4nPtFilw\nI/v8CJmRtCF68gB0sJB4x2ZK7+japkyRKp1sYD4F3akFseL1GGt+oTfVT+lBKrDf\nld2ogDdg5vDCxaKSL4menFOi8QKBgQDfKE4sWEd4JHtayPiXMJNG5p3TGBLJ4yNE\nxG9pH5SOcHdYQtrDQB3jNlvHiGaYqBf5F/YBhih8Arsrv1dcaRIQ7kpEZLapk7Hn\nfE6oiJAOWOMv5ar/oqKmzPqVnoFVcfbDRd9JqVCh765VLRVQOwUAdsu1B108IRd2\nKgyH/WG/UwKBgG9LmkX9y7fhFyfmA3XMJSBt+/dmGD8U81dt4jirqhUNbA94NLWz\nwiAXTLB7hR1oH6qW70zS8PVcepJnDZZjdFJ/3dpqWrZKvqknNfeHUBzcXlembZUV\nZNhyBDQa4BNASNC9FhDVYwOGy8AWs32sOTeyrkd5LnolX11TEuBMxj6xAoGAWPCv\nd20XzwJ7R4uhyGBL0o5HiMKnel9UxyujW7qCcuLQLhU3K2p6fvxDSBtNCLq2E0lB\newoFSKeuAZmZL/OQh77xSqD5TEzZMvGQSAtlntI+efCHXqtrOB+qH8e0tGFfgCRx\nAeLBiEkGqlv1iqx7KdwvBE+TEUv/FdFcfTa3ppECgYA/Z8gRE/Us9vRdgGxIk5Lh\n1wwtbof6c+Jm8tg68U71KzYR+aKW8HgVsu76SNXO62l6tICo0f1hT/3TxpcJySlY\nrHgiC0yB+mJc5YIP7vd+smsPhANtdT1WC1LQbx6aFS8V7qLLHKeNI7AeC/8gWcGe\nGbFccq1Y+iRu9x1k8Oyuag==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-9pbeprzpd5nuguikjjbtm5ylwq@moviesgatedrive.iam.gserviceaccount.com",
+  "client_id": "107957095431776015377",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-9pbeprzpd5nuguikjjbtm5ylwq%40moviesgatedrive.iam.gserviceaccount.com"
+}
